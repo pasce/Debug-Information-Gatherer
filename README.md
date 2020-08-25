@@ -1,6 +1,6 @@
 # Debug-Information-Gatherer
 
-Command-line application to fetch plattform and system information for application debugging purpose.
+Command-line application to fetch platform and system information for application debugging purpose.
 
 **Compile with dart2native**:
 
