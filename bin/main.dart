@@ -73,7 +73,7 @@ Future<void> main(List<String> args) async {
   print(paths);
   print('-----------------------------------------------------------------');
 
-  //Get environ variables
+  //Get environment variables
   var environment_properties = io.Platform.environment;
 
   var date_time = DateTime.now();
