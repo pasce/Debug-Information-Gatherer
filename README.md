@@ -1,0 +1,1 @@
+command-line application to fetch information for application debugging purpose
