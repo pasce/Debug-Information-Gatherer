@@ -24,7 +24,7 @@ Future<bool> createSHMFile() async {
 }
 
 Future<bool> deleteFile(String filename) async {
-  io.File(filename).delete();
+  io.File(filename).deleteSync();
   print('FILE $filename deleted');
   return true;
 }
