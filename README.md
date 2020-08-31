@@ -7,4 +7,4 @@ Command-line application to fetch platform and system information for applicatio
 ```
 dart2native main.dart -o cmdl.exe
 ```
-Local date time: 2020-08-27 13:30:25.002516
+Local date time: 2020-08-31 07:30:25.002516
